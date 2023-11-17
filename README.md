@@ -24,15 +24,16 @@ Aplicação real desenvolvida para portifólio.<br>
 * MoviesGrid
   
 ## API Utilizada ⚙️
-TMDB (themoviedb)
+- TMDB (themoviedb)
+- Link da Documentação: [CLIQUE_AQUI!]([URL do link](https://developer.themoviedb.org/reference/intro/getting-started))
 
 # Tecnologias utilizadas 🧑🏾‍💻
 - HTML / CSS / JS / 
 - ReactJS
   
 ## Bibliotecas (Dependências) 🧑🏾‍💻
-react-icons: ^4.12.0
-react-router-dom: ^6.18.0
+- react-icons: ^4.12.0
+- react-router-dom: ^6.18.0
 
 
 # Como executar o projeto 💡
