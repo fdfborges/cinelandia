@@ -1,43 +1,41 @@
-# Cinelândia: Tudo sobre filmes!
+# Cinelândia: Tudo sobre filmes! 📽️
 ![NPM](https://img.shields.io/badge/license-MIT-%23259db9)
 
-# Sobre o projeto
+# Sobre o projeto ℹ️
 
 Link para Demonstração: https://feed-react-ts-seven.vercel.app/
 
 Aplicação real desenvolvida para portifólio.<br>
-A aplicação consiste em um site que mostra todos os filmes listados no cinema.
-Organizando dos mais bem avaliados para os demais. Podendo inclusive, pesquisar o nome do filme, ver a a valiação, orçamento,
-entre outros detalhes que todo "forumfeiro" ama!
+<br>A aplicação consiste em um site que lista todos os filmes em cartaz no cinema, organizados por avaliação. É possível pesquisar por nome, ver a avaliação, o orçamento e outros detalhes que interessam aos "forumeiros".
 
-## Layout
+## Layout 🖌️
 ![Web 1](./src/assets/apresentaçãohome.png)
 
-# Funcionalidades 
-* Título
-* Imagem cartaz
-* Avaliação
+# Funcionalidades ⚙️
+* Integração com a API
+* Input de Pesquisa
+* Grid de Filmes
 * Página individual de detalhes (orçamento, receira, duração, slogan e descrição)
 
 
-# Componentes
+# Componentes ⚙️
 * Home
 * Navbar
 * MoviesGrid
   
-## API Utilizada
+## API Utilizada ⚙️
 TMDB (themoviedb)
 
-# Tecnologias utilizadas
+# Tecnologias utilizadas 🧑🏾‍💻
 - HTML / CSS / JS / 
 - ReactJS
   
-## Bibliotecas (Dependências)
+## Bibliotecas (Dependências) 🧑🏾‍💻
 react-icons: ^4.12.0
 react-router-dom: ^6.18.0
 
 
-# Como executar o projeto
+# Como executar o projeto 💡
 
 Pré-requisitos: npm
 
