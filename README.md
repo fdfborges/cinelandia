@@ -25,7 +25,7 @@ Aplicação real desenvolvida para portifólio.<br>
   
 ## API Utilizada ⚙️
 - TMDB (themoviedb)
-- Link da Documentação: [CLIQUE_AQUI!]([URL do link](https://developer.themoviedb.org/reference/intro/getting-started))
+- Link da Documentação: ([Clique Aqui!](https://developer.themoviedb.org/reference/intro/getting-started))
 
 # Tecnologias utilizadas 🧑🏾‍💻
 - HTML / CSS / JS / 
