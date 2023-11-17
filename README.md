@@ -3,7 +3,7 @@
 
 # Sobre o projeto ℹ️
 
-Link para Demonstração: https://feed-react-ts-seven.vercel.app/
+Link do Projeto Funcionando: https://cinelandia-alpha.vercel.app/
 
 Aplicação real desenvolvida para portifólio.<br>
 <br>A aplicação consiste em um site que lista todos os filmes em cartaz no cinema, organizados por avaliação. É possível pesquisar por nome, ver a avaliação, o orçamento e outros detalhes que interessam aos "forumeiros".
@@ -25,7 +25,7 @@ Aplicação real desenvolvida para portifólio.<br>
   
 ## API Utilizada ⚙️
 - TMDB (themoviedb)
-- Link da Documentação: ([Clique Aqui!](https://developer.themoviedb.org/reference/intro/getting-started))
+- Link da Documentação: ([**Clique Aqui!**](https://developer.themoviedb.org/reference/intro/getting-started))
 
 # Tecnologias utilizadas 🧑🏾‍💻
 - HTML / CSS / JS / 
